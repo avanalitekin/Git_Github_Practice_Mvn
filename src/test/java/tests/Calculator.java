@@ -30,4 +30,7 @@ public class Calculator {
     public static int mode10(int number){
         return number%10;
     }
+    public static int mode5(int number){
+        return number%5;
+    }
 }
