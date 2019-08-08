@@ -12,7 +12,7 @@ public class Calculator {
         return number1-number2;
     }
     
-    public static int multiply(int number1, int number2){
-        return number1*number2;
+    public static int multiply(int num1, int num2){
+        return num1*num2;
     }
 }
