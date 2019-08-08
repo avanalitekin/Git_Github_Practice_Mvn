@@ -6,6 +6,7 @@ public class Calculator {
         System.out.println(multiply(15,3));
         System.out.println(divide(15,3));
         System.out.println(mode(15,3));
+        System.out.println(mode10(15));
     }
     public static int add(int n1, int n2){
         return n1+n2;
