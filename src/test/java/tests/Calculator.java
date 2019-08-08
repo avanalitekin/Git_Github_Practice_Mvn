@@ -3,7 +3,7 @@ public class Calculator {
     public static void main(String[] args){
         System.out.println(add(10,15));
         System.out.println(subtract(15,10));
-        add(10,15);
+        System.out.println(add(10,15));
         System.out.println(multiply(15,3));
     }
     public static int add(int n1, int n2){
