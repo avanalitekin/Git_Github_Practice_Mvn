@@ -33,7 +33,7 @@ public class Calculator {
     public static int mode5(int number){
         return number%5;
     }
-    public static int mode2(int number){
-        return number%2;
+    public static int mode20(int number){
+        return number%20;
     }
 }
