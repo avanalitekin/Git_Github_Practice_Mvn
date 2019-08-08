@@ -27,4 +27,7 @@ public class Calculator {
     public static int remainder(int n1, int n2){
         return n1/n2;
     }
+    public static int mode10(int n1){
+        return n1%10;
+    }
 }
