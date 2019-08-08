@@ -20,7 +20,4 @@ public class Calculator {
     public static int divide(int n1, int n2){
         return n1/n2;
     }
-    public static int mode(int n1, int n2){
-        return n1%n2;
-    }
 }
