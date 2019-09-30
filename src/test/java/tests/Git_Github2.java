@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
-public class Git_Github02 {
+public class Git_Github2 {
     static WebDriver driver=Driver.getDriver();
     @Test
     public void test01(){
