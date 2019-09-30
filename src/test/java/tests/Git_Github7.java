@@ -10,7 +10,6 @@ public class Git_Github7 {
         driver.get("https://www.yahoo.com");
         driver.get("https://www.google.com");
         driver.get("https://www.amazon.com");
-        driver.get("https://www.yahoo.com");
         driver.get("https://www.google.com");
         driver.get("https://www.amazon.com");
         driver.close();
